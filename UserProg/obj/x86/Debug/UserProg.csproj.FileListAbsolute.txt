@@ -1,0 +1,14 @@
+C:\Users\obeezy\Desktop\Assign3\UserProg\bin\Debug\UserProg.exe
+C:\Users\obeezy\Desktop\Assign3\UserProg\bin\Debug\UserProg.pdb
+C:\Users\obeezy\Desktop\Assign3\UserProg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\obeezy\Desktop\Assign3\UserProg\obj\x86\Debug\UserProg.exe
+C:\Users\obeezy\Desktop\Assign3\UserProg\obj\x86\Debug\UserProg.pdb
+C:\Users\obeezy\Desktop\Assign3\UserProg\bin\Debug\SharedClasses.dll
+C:\Users\obeezy\Desktop\Assign3\UserProg\bin\Debug\SharedClasses.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\UserProg\bin\Debug\UserProg.exe
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\UserProg\bin\Debug\UserProg.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\UserProg\bin\Debug\SharedClasses.dll
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\UserProg\bin\Debug\SharedClasses.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\UserProg\obj\x86\Debug\UserProg.csprojResolveAssemblyReference.cache
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\UserProg\obj\x86\Debug\UserProg.exe
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\UserProg\obj\x86\Debug\UserProg.pdb

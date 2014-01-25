@@ -1,0 +1,10 @@
+C:\Users\obeezy\Desktop\Assign3\SharedClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\obeezy\Desktop\Assign3\SharedClasses\bin\Debug\SharedClasses.dll
+C:\Users\obeezy\Desktop\Assign3\SharedClasses\bin\Debug\SharedClasses.pdb
+C:\Users\obeezy\Desktop\Assign3\SharedClasses\obj\Debug\SharedClasses.dll
+C:\Users\obeezy\Desktop\Assign3\SharedClasses\obj\Debug\SharedClasses.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\SharedClasses\bin\Debug\SharedClasses.dll
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\SharedClasses\bin\Debug\SharedClasses.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\SharedClasses\obj\Debug\SharedClasses.csprojResolveAssemblyReference.cache
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\SharedClasses\obj\Debug\SharedClasses.dll
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\SharedClasses\obj\Debug\SharedClasses.pdb

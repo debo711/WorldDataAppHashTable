@@ -1,0 +1,14 @@
+C:\Users\obeezy\Desktop\Assign3\Assign3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\obeezy\Desktop\Assign3\Assign3\bin\Debug\Assign3.exe
+C:\Users\obeezy\Desktop\Assign3\Assign3\bin\Debug\Assign3.pdb
+C:\Users\obeezy\Desktop\Assign3\Assign3\bin\Debug\SharedClasses.dll
+C:\Users\obeezy\Desktop\Assign3\Assign3\bin\Debug\SharedClasses.pdb
+C:\Users\obeezy\Desktop\Assign3\Assign3\obj\x86\Debug\Assign3.exe
+C:\Users\obeezy\Desktop\Assign3\Assign3\obj\x86\Debug\Assign3.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\Assign3\bin\Debug\Assign3.exe
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\Assign3\bin\Debug\Assign3.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\Assign3\bin\Debug\SharedClasses.dll
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\Assign3\bin\Debug\SharedClasses.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\Assign3\obj\x86\Debug\SetUpProg.csprojResolveAssemblyReference.cache
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\Assign3\obj\x86\Debug\Assign3.exe
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assign3\Assign3\obj\x86\Debug\Assign3.pdb
